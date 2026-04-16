@@ -44,11 +44,7 @@ python app.py
 * ⚡ ~2 seconds Response Time
 * ⭐ 4.3/5 User Satisfaction
 
----
 
-## 📸 Screenshots
-
-(Add your project screenshots here)
 
 ---
 
