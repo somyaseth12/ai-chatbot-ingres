@@ -1,0 +1,26 @@
+[
+  {
+    "state": "Rajasthan",
+    "district": "Udaipur",
+    "year": 2023,
+    "recharge": 120,
+    "extraction": 95,
+    "category": "Semi-Critical"
+  },
+  {
+    "state": "Rajasthan",
+    "district": "Jaipur",
+    "year": 2023,
+    "recharge": 100,
+    "extraction": 110,
+    "category": "Over-Exploited"
+  },
+  {
+    "state": "Rajasthan",
+    "district": "Jodhpur",
+    "year": 2023,
+    "recharge": 80,
+    "extraction": 60,
+    "category": "Safe"
+  }
+]

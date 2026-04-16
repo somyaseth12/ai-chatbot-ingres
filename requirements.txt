@@ -1,0 +1,6 @@
+gradio
+matplotlib
+numpy
+faiss-cpu
+sentence-transformers
+scikit-learn
